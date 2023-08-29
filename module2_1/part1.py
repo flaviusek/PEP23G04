@@ -58,7 +58,3 @@ print(id(True))
 print(id(False))
 print(id(True is True))
 
-
-
-
-
