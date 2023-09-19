@@ -37,12 +37,12 @@
 
 
 
-# # # 5
-# str1 = input('Introduceti un cuvant: ')
-#
-# rev = str1[::-1]
-#
-# if str1 == rev:
-#         print("PALINDROME!")
-# else:
-#         print("NOT PALINDROME!")
+# # 5
+str1 = input('Introduceti un cuvant: ')
+
+rev = str1[::-1]
+
+if str1 == rev:
+        print("PALINDROME!")
+else:
+        print("NOT PALINDROME!")
